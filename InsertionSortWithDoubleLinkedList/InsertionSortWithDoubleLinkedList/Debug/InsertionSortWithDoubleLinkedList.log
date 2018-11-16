@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kazim\desktop\study data\data structures\insertionsortwithdoublelinkedlist\insertionsortwithdoublelinkedlist\header.h(148): warning C4101: 'iterator1': unreferenced local variable
+c:\users\kazim\desktop\study data\data structures\insertionsortwithdoublelinkedlist\insertionsortwithdoublelinkedlist\header.h(148): warning C4101: 'iterator2': unreferenced local variable
+  InsertionSortWithDoubleLinkedList.vcxproj -> C:\Users\kazim\Desktop\Study Data\Data Structures\InsertionSortWithDoubleLinkedList\Debug\InsertionSortWithDoubleLinkedList.exe

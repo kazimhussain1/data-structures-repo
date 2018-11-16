@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\kazim\desktop\study data\data structures\postfixsolution\postfixsolution\source.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kazim\desktop\study data\data structures\postfixsolution\postfixsolution\source.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kazim\desktop\study data\data structures\postfixsolution\postfixsolution\source.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\kazim\desktop\study data\data structures\postfixsolution\postfixsolution\source.cpp(93): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\kazim\desktop\study data\data structures\postfixsolution\postfixsolution\source.cpp(98): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kazim\desktop\study data\data structures\postfixsolution\postfixsolution\source.cpp(100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kazim\desktop\study data\data structures\postfixsolution\postfixsolution\source.cpp(102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\kazim\desktop\study data\data structures\postfixsolution\postfixsolution\source.cpp(107): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  PostFixSolution.vcxproj -> C:\Users\kazim\Desktop\Study Data\Data Structures\PostFixSolution\Debug\PostFixSolution.exe
