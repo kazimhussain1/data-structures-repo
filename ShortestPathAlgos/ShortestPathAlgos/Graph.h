@@ -422,7 +422,7 @@ public:
 			currentVertex->visited = true;
 
 			EdgeNODE* LeastWeight = new EdgeNODE;
-			LeastWeight->weight = 65000;
+			LeastWeight->weight = INT16_MAX;
 
 			while (currentVertex)
 			{
